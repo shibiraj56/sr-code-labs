@@ -1,0 +1,15 @@
+{
+  "short_name": "SR CODE LABS",
+  "name": "SR CODE LABS | Build. Innovate. Scale.",
+  "icons": [
+    {
+      "src": "new logo-Photoroom.png",
+      "sizes": "512x512 192x192 64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF"
+}
