@@ -1,0 +1,17 @@
+{
+  "short_name": "SR CODE LABS",
+  "name": "SR CODE LABS | Websites, Software & ERP Solutions",
+  "description": "SR CODE LABS is a software development company in Tiruppur, Tamil Nadu, delivering custom websites, web applications, ERP solutions and business automation software.",
+  "icons": [
+    {
+      "src": "Logo.png",
+      "sizes": "512x512 192x192 64x64",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#7C3AED",
+  "background_color": "#FFFFFF"
+}

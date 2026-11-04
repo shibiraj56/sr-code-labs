@@ -1,0 +1,24 @@
+# https://www.robotstxt.org/robotstxt.html
+# Robots.txt for SR CODE LABS (https://www.srcodelab.space)
+
+User-agent: *
+Allow: /
+Allow: /Logo.png
+Allow: /static/
+Disallow: /api/
+
+# Specific major search engine crawlers
+User-agent: Googlebot
+Allow: /
+Disallow: /api/
+
+User-agent: Googlebot-Image
+Allow: /
+Allow: /Logo.png
+
+User-agent: Bingbot
+Allow: /
+Disallow: /api/
+
+# XML Sitemap Location
+Sitemap: https://www.srcodelab.space/sitemap.xml
